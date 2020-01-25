@@ -50,5 +50,5 @@ while True:
 conn1.close()
 s1.close()
 s2.close()
-k=(b**a)%N
+k=(B**a)%N
 print('Il numero è',k)
